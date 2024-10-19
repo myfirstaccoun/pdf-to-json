@@ -1,0 +1,5 @@
+- تعريف بمكتبة yuag (حفظ الملفات)
+- أسامي المصفوفة والقاموس في بايثون
+- شكل ملف البينات blocks (خريطة ذهنية) https://www.mindmeister.com/app/map/3465863354?source=blank
+- تحليل البينات pages_content
+- الملف النهائي output_data
